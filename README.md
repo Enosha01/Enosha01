@@ -3,7 +3,7 @@
 <img src="https://github.com/vasanthv07/Resources/blob/main/Resources/vg_art.jpg" width="150" align="right" />
 ◼ Passionate about Machine Learning & Artificial Intelligence.<br>
 ◼ Devoted to crafting open-source solutions and tackling unique challenges.<br>
-◼ Enthusiastic about the intersection of technology and data science.<br>
+◼ Enthusiastic about the intersection of technology and AGI.<br>
 ◼ Seeking collaborative opportunities to build the future with code.<br>
 
 <br><br>
